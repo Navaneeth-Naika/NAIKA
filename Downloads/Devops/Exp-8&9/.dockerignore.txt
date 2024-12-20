@@ -1,0 +1,15 @@
+# Ignore unnecessary files
+*.pdf
+*.log
+*.tmp
+node_modules/
+build/
+dist/
+
+# Ignore version control files
+.git/
+.gitignore
+
+# Ignore operating system files
+.DS_Store
+Thumbs.db
